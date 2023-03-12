@@ -61,5 +61,8 @@ https://user-images.githubusercontent.com/108359930/214659111-a9972617-afc7-4317
 
 **Anastasiya Shitenkova** – (LinkedIn) *https://www.linkedin.com/in/anastasiya-shitenkova/* – (Telegram) - *https://t.me/Nemezida_Ok*
 
+## Thanks to all Contributors
+[![Contributors](https://contrib.rocks/image?repo=Annastaasia/JS_Finance_Tracker)](https://github.com/Annastaasia/JS_Finance_Tracker/graphs/contributors)
+
 <!-- **Olga Bulgakova** – (LinkedIn) *https://www.linkedin.com/in/olga-bulgakova-014254243/* – (E-mail) - oska43@mai.ru*>
 
