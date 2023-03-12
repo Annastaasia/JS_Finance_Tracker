@@ -64,5 +64,8 @@ https://user-images.githubusercontent.com/108359930/214659111-a9972617-afc7-4317
 ## Thanks to all Contributors
 [![Contributors](https://contrib.rocks/image?repo=Annastaasia/JS_Finance_Tracker)](https://github.com/Annastaasia/JS_Finance_Tracker/graphs/contributors)
 
+## Result:
+https://annastaasia.github.io/English-words-card/
+
 <!-- **Olga Bulgakova** – (LinkedIn) *https://www.linkedin.com/in/olga-bulgakova-014254243/* – (E-mail) - oska43@mai.ru*>
 
